@@ -74,31 +74,31 @@
     display: block;
 }
 
-.tipo-fogo{
-    background-color: #ED8A8b;
+.tipo-fogo, .listagem .pokemon.charmander:hover{
+    background-color: #e92124;
 }
 
-.tipo-eletrico{
+.tipo-eletrico, .listagem .pokemon.pikachu:hover {
     background-color: #FCC719;
 }
 
-.tipo-agua{
+.tipo-agua, .listagem .pokemon.gyarados:hover{
     background-color: #76BEFE;
 }
 
-.tipo-grama{
+.tipo-grama, .listagem .pokemon.bulbasaur:hover{
     background-color: #49D0B0;
 }
 
-.tipo-trevas{
+.tipo-trevas, .listagem .pokemon.gengar:hover{
     background-color: #BA68C8;
 }
 
-.tipo-dragao{
+.tipo-dragao, .listagem .pokemon.dragonite:hover{
     background-color: #C29791;
 }
 
-.listagem{
+.listagem, .listagem {
     max-width: 200px;
 }
 
@@ -134,3 +134,4 @@
 .listagem .pokemon.ativo {
     background-color: #FA6668;
 }
+
