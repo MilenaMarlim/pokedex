@@ -115,22 +115,22 @@
     border-bottom-left-radius: 30px;
     box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
     transition: 0.15s ease-in-out;
+    min-height: 70px;
 }
 
-.listagem .pokemon:hover{
+.listagem .pokemon:hover {
     transform: scale(1.05);
 }
 
-.listagem .pokemon img{
+.listagem .pokemon img {
     width: 25%;
     border-radius: 50%;
-    min-height: 70px;
 }
 
 .listagem .pokemon span {
     padding-right: 20px;
 }
 
-.listagem .pokemon.ativo{
+.listagem .pokemon.ativo {
     background-color: #FA6668;
 }
