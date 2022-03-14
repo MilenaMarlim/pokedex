@@ -13,7 +13,7 @@
 
 * Flex;
 * Display Grid;
-* Carrossel de imagens com Javascript
+* Mudança de imagens com clique usando Javascript
 * Design Responsivo: Media Queries.
 
 ## 🚀 Linguagens utilizadas:
