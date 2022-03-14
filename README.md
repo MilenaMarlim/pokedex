@@ -10,6 +10,7 @@
 <p align="left"> 
 
 🚀  Quer ver como ficou? Clique:
+  https://milenamarlim.github.io/pokedex/
 </p>
 
 <p align="left">
